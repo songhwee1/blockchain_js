@@ -1,0 +1,19 @@
+{
+  "name": "blockchain_js",
+  "version": "1.0.0",
+  "description": "node.js와 javascript를 활용한 분산형 네트워크",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songhwee1/blockchain_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songhwee1/blockchain_js/issues"
+  },
+  "homepage": "https://github.com/songhwee1/blockchain_js#readme"
+}
